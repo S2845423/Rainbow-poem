@@ -6,5 +6,6 @@ red
 green
 pink
 yellow
+blue
 
 Theese are the colos of the rainbow.
